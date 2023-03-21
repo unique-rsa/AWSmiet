@@ -1,0 +1,55 @@
+serverstack
+
+server machine price starts on around Rs80,000
+
+Essential charecteristic of cloud computing:-
+
+	On-demand self-service
+	Broad network access
+	Resource pooling
+	Rapid elasticity
+	Measured service
+
+cloud terminology:-
+
+	high availabiility
+	fault tolarent
+	elasticity
+	scalability
+	instance       
+
+Sumerian aws
+
+git --version to check git version
+
+cmd of git:-
+  mkdir name
+  ls to show files in that directory
+  ls -l file info
+  pwd check persent working directory
+  mv to rename file
+  echo "type something" > here name
+  cat ti see whats the code
+  git init to inisialize the file to git
+  git status to check status
+  git add file name
+  git commit -m "reson valuable command"
+  git log to see history
+  git config user.name
+  git remote add origin https://github.com/unique-rsa/AWSmiet.git
+  git push -u origin main
+  git clone to copy from github
+  git pull
+
+
+vesion control software -VCS  
+distributed version control system -DVCS
+
+	keep track of changes to code
+	synchronizes code between two people
+	test changes the code without losing original
+	revert back to old verrsionm of code
+
+>github.com
+	create repo
+	
